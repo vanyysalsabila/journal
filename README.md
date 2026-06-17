@@ -27,10 +27,13 @@ Koleksi jurnal ilmiah dan referensi penelitian oleh **Vany Salsabila Putri** (12
 | 19 | jurnal 19.pdf |
 | 20 | jurnal 20.pdf |
 | 21 | jurnal 21.pdf |
+| 22 | jurnal 22.pdf |
+| 23 | jurnal 23.pdf |
+| 24 | jurnal 24.pdf |
 
 ## 📌 Informasi
 
-- **Total Jurnal**: 21 file PDF
+- **Total Jurnal**: 24 file PDF
 - **Tujuan**: Referensi dan koleksi jurnal ilmiah untuk penelitian
 - **Pemilik**: Vany Salsabila Putri
 
