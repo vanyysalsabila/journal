@@ -6,15 +6,15 @@ Koleksi jurnal ilmiah dan referensi penelitian oleh **Vany Salsabila Putri** (12
 
 | No | Nama File |
 |----|-----------|
-| 1 | jurnal 1.pdf |
-| 2 | jurnal 2.pdf |
-| 3 | jurnal 3.pdf |
-| 4 | jurnal 4.pdf |
-| 5 | jurnal 5.pdf |
-| 6 | jurnal 6.pdf |
-| 7 | jurnal 7.pdf |
-| 8 | jurnal 8.pdf |
-| 9 | jurnal 9.pdf |
+| 1 | jurnal 01.pdf |
+| 2 | jurnal 02.pdf |
+| 3 | jurnal 03.pdf |
+| 4 | jurnal 04.pdf |
+| 5 | jurnal 05.pdf |
+| 6 | jurnal 06.pdf |
+| 7 | jurnal 07.pdf |
+| 8 | jurnal 08.pdf |
+| 9 | jurnal 09.pdf |
 | 10 | jurnal 10.pdf |
 | 11 | jurnal 11.pdf |
 | 12 | jurnal 12.pdf |
