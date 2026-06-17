@@ -4,29 +4,29 @@ Koleksi jurnal ilmiah dan referensi penelitian oleh **Vany Salsabila Putri** (12
 
 ## 📋 Daftar Jurnal
 
-| No | Nama File | Keterangan |
-|----|-----------|------------|
-| 1 | 1112-4381-1-PB.pdf | Jurnal Ilmiah |
-| 2 | 2306.13948v2.pdf | ArXiv Preprint |
-| 3 | 2401.04369v1.pdf | ArXiv Preprint |
-| 4 | 2505.05479v1.pdf | ArXiv Preprint |
-| 5 | 2508.11215v1.pdf | ArXiv Preprint |
-| 6 | 3674912.3674915.pdf | Jurnal Ilmiah |
-| 7 | ETASR_12168.pdf | ETASR Journal |
-| 8 | IJETT-V73I8P111.pdf | IJETT Journal |
-| 9 | JRMDE-4-4-code147.pdf | JRMDE Journal |
-| 10 | aaqr-19-08-oa-0408.pdf | Aerosol & Air Quality Research |
-| 11 | atmosphere-15-00553.pdf | Atmosphere Journal |
-| 12 | atmosphere-15-00925-v3.pdf | Atmosphere Journal |
-| 13 | jaiceditor,+Rochadiani_384-389.pdf | JAIC Journal |
-| 14 | pone.0334252.pdf | PLOS ONE |
-| 15 | review.pdf | Review Paper |
-| 16 | rfp0697-chenAemb.pdf | Jurnal Ilmiah |
-| 17 | s11270-025-08122-8.pdf | Springer Journal |
-| 18 | s41598-022-13579-2.pdf | Scientific Reports |
-| 19 | s41598-026-39579-0.pdf | Scientific Reports |
-| 20 | sustainability-17-05347.pdf | Sustainability Journal |
-| 21 | sustainability-17-09211.pdf | Sustainability Journal |
+| No | Nama File |
+|----|-----------|
+| 1 | jurnal 1.pdf |
+| 2 | jurnal 2.pdf |
+| 3 | jurnal 3.pdf |
+| 4 | jurnal 4.pdf |
+| 5 | jurnal 5.pdf |
+| 6 | jurnal 6.pdf |
+| 7 | jurnal 7.pdf |
+| 8 | jurnal 8.pdf |
+| 9 | jurnal 9.pdf |
+| 10 | jurnal 10.pdf |
+| 11 | jurnal 11.pdf |
+| 12 | jurnal 12.pdf |
+| 13 | jurnal 13.pdf |
+| 14 | jurnal 14.pdf |
+| 15 | jurnal 15.pdf |
+| 16 | jurnal 16.pdf |
+| 17 | jurnal 17.pdf |
+| 18 | jurnal 18.pdf |
+| 19 | jurnal 19.pdf |
+| 20 | jurnal 20.pdf |
+| 21 | jurnal 21.pdf |
 
 ## 📌 Informasi
 
